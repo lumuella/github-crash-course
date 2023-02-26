@@ -1,3 +1,3 @@
 # github-crash-course
 
-This is a demo repositor y for pracitcing Git and Github
+This is a demo repository for pracitcing Git and Github
